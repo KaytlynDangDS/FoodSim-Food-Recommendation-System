@@ -1,0 +1,1 @@
+Building a Vietnamese food dataset combines the application of a number of recommended methods to build a Vietnamese food recommendation system with the goal of recommending dishes to users based on the preferences and needs of individuals
